@@ -1,0 +1,39 @@
+# BestRestaurantDenver.com
+
+> A guide to eating in Denver, Colorado. The restaurant directory is the MICHELIN Guide Colorado
+> selection reorganised to be searchable. The brunch list is ordered by counting independent
+> published recommendations. We do not rank restaurants by opinion and we do not sell placement.
+> Published by Search Converts LLC. Edited by Zach Wennstedt, Denver, Colorado.
+
+## Editorial policy
+
+- The restaurant directory contains only restaurants recognised by the MICHELIN Guide Colorado.
+- No payment, affiliate link or placement fee affects any list on this site.
+- The brunch ordering is a count of independent editorial mentions; every entry names its sources.
+- We do not publish hours, prices, ratings or reviews we cannot source. No aggregateRating anywhere.
+- Sponsored units are labelled as sponsored and sit outside every list.
+- No AI-generated reviews, no fabricated statistics, no placeholder text.
+
+## Pages
+
+- [Best Restaurants In Denver](https://bestrestaurantdenver.com/): A searchable directory of every Michelin-recognized restaurant in Denver — 31 entries across stars, Bib Gourmands and recommended, with street addresses, neighborhoods and cuisine, plus how the award tiers work and how to get a table.
+- [Denver Restaurants By Neighborhood](https://bestrestaurantdenver.com/denver-restaurants-by-neighborhood/): All 15 Denver neighborhoods with a Michelin-recognized restaurant, ranked by count, with in-depth profiles of RiNo, LoHi, LoDo, Union Station, Platt Park and Sunnyside, plus honest walking distances between them.
+- [Best Brunch In Denver](https://bestrestaurantdenver.com/best-brunch-in-denver/): Denver brunch ordered by cross-source consensus — how many of Westword, 5280, Time Out and the MICHELIN Guide independently recommend each spot — plus green chile brunch, bottomless rules and how to get a table.
+- [What To Eat In Denver](https://bestrestaurantdenver.com/what-to-eat-in-denver/): Colorado green chile and the Pueblo Mosco chile, Palisade peaches, Olathe Sweet Corn, Rocky Ford melon, Colorado lamb and bison, the history of Denver's oldest restaurant, and a month-by-month Colorado harvest calendar.
+
+## Tools on this site
+
+- Denver restaurant directory — 31 Michelin-recognized restaurants, searchable by name, neighborhood, cuisine and award level.
+- Neighborhood ranking — 15 Denver neighborhoods ordered by number of recognized restaurants.
+- Brunch consensus list — filterable by neighborhood and style, with per-entry source attribution.
+- Colorado harvest calendar — month-by-month guide to what is in season in Colorado.
+
+## Sources
+
+- MICHELIN Guide Colorado, 2025 selection (announced 15 September 2025).
+- 5280 magazine, Westword and Time Out Denver for brunch recommendations.
+- Colorado Department of Agriculture and Colorado State University for produce and chile facts.
+
+## Contact
+
+- Advertising inquiries, restaurant submissions and corrections: info@eyetoad.com
