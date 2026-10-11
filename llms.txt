@@ -1,40 +1,48 @@
 # BestRestaurantDenver.com
 
-> A guide to eating in Denver, Colorado. The restaurant directory is the MICHELIN Guide Colorado
-> selection reorganised to be searchable. The brunch list is ordered by counting independent
-> published recommendations. We do not rank restaurants by opinion and we do not sell placement.
+> An independent guide to eating in the city of Denver, Colorado. The directory is the 2026 MICHELIN
+> Guide Colorado selection for Denver (37 restaurants), reorganised to be searchable. A separate,
+> sourced list covers James Beard-recognized kitchens, bars and city institutions the guide does not
+> list. We do not rank restaurants by opinion and we do not sell placement.
 > Published by Search Converts LLC. Edited by Zach Wennstedt, Denver, Colorado.
+
+## Open data
+
+- [restaurants.json](https://bestrestaurantdenver.com/data/restaurants.json): 51 Denver restaurants and bars with address, neighborhood, cuisine, award, source URLs and a "verified" date for each record. Free to quote with attribution and a link.
 
 ## Editorial policy
 
-- The restaurant directory contains only restaurants recognised by the MICHELIN Guide Colorado.
+- The main directory contains only restaurants in the current MICHELIN Guide Colorado selection.
+- The beyond-MICHELIN list requires at least two independent published sources per entry.
 - No payment, affiliate link or placement fee affects any list on this site.
-- The brunch ordering is a count of independent editorial mentions; every entry names its sources.
-- We do not publish hours, prices, ratings or reviews we cannot source. No aggregateRating anywhere.
-- Sponsored units are labelled as sponsored and sit outside every list.
-- No AI-generated reviews, no fabricated statistics, no placeholder text.
+- We do not publish hours, prices, ratings or reviews. No aggregateRating or Review markup.
+- Meal-picker occasion tags are our own rule-based labels, defined on /editorial-policy/.
+- Advertising is served by Google and kept separate from every list.
 
 ## Pages
 
-- [Best Restaurants In Denver](https://bestrestaurantdenver.com/): A searchable directory of every Michelin-recognized restaurant in Denver — 31 entries across stars, Bib Gourmands and recommended, with street addresses, neighborhoods and cuisine, plus how the award tiers work and how to get a table.
-- [Denver Restaurants By Neighborhood](https://bestrestaurantdenver.com/denver-restaurants-by-neighborhood/): All 15 Denver neighborhoods with a Michelin-recognized restaurant, ranked by count, with in-depth profiles of RiNo, LoHi, LoDo, Union Station, Platt Park and Sunnyside, plus honest walking distances between them.
-- [Best Brunch In Denver](https://bestrestaurantdenver.com/best-brunch-in-denver/): Denver brunch ordered by cross-source consensus — how many of Westword, 5280, Time Out and the MICHELIN Guide independently recommend each spot — plus green chile brunch, bottomless rules and how to get a table.
-- [What To Eat In Denver](https://bestrestaurantdenver.com/what-to-eat-in-denver/): Colorado green chile and the Pueblo Mosco chile, Palisade peaches, Olathe Sweet Corn, Rocky Ford melon, Colorado lamb and bison, the history of Denver's oldest restaurant, and a month-by-month Colorado harvest calendar.
-- [Denver Restaurant Reservations](https://bestrestaurantdenver.com/denver-restaurant-reservations/): How to get a table at Denver's busiest restaurants: when booking windows open, notify alerts and waitlists, bar, counter and patio walk-ins, and cancellation policies.
-
-## Tools on this site
-
-- Denver restaurant directory — 31 Michelin-recognized restaurants, searchable by name, neighborhood, cuisine and award level.
-- Neighborhood ranking — 15 Denver neighborhoods ordered by number of recognized restaurants.
-- Brunch consensus list — filterable by neighborhood and style, with per-entry source attribution.
-- Colorado harvest calendar — month-by-month guide to what is in season in Colorado.
+- [Best Restaurants in Denver](https://bestrestaurantdenver.com/): searchable directory of all 37 Denver restaurants in the 2026 MICHELIN Guide Colorado, with addresses, neighborhoods, cuisines and award tiers.
+- [Denver meal picker](https://bestrestaurantdenver.com/denver-meal-picker/): choose craving, occasion and area; returns five sourced matches and a nearby drinks stop.
+- [Denver beyond MICHELIN](https://bestrestaurantdenver.com/denver-restaurants-beyond-michelin/): Yuan Wonton, El Taco de Mexico, Sắp Sửa and other James Beard-recognized or historic Denver restaurants, with sources.
+- [What changed in Denver's 2026 MICHELIN Guide](https://bestrestaurantdenver.com/michelin-guide-denver-2026/)
+- [Denver restaurants by neighborhood](https://bestrestaurantdenver.com/denver-restaurants-by-neighborhood/)
+- [RiNo and Five Points](https://bestrestaurantdenver.com/rino-five-points-restaurants/), [LoHi and the Highlands](https://bestrestaurantdenver.com/highlands-restaurants-denver/), [South Pearl, Wash Park and Cherry Creek](https://bestrestaurantdenver.com/south-pearl-wash-park-cherry-creek-restaurants/)
+- [Mexican](https://bestrestaurantdenver.com/mexican-restaurants-denver/), [Chinese, Japanese and Taiwanese](https://bestrestaurantdenver.com/asian-restaurants-denver/), [Italian](https://bestrestaurantdenver.com/italian-restaurants-denver/), [Tasting menus](https://bestrestaurantdenver.com/tasting-menus-denver/)
+- [Best brunch in Denver](https://bestrestaurantdenver.com/best-brunch-in-denver/): ordered by how many independent outlets recommend each spot.
+- [What to eat in Denver](https://bestrestaurantdenver.com/what-to-eat-in-denver/): green chile, Colorado produce and a harvest calendar.
+- [Denver restaurant reservations](https://bestrestaurantdenver.com/denver-restaurant-reservations/)
+- [Editorial policy](https://bestrestaurantdenver.com/editorial-policy/)
 
 ## Sources
 
-- MICHELIN Guide Colorado, 2025 selection (announced 15 September 2025).
+- MICHELIN Guide Colorado 2026 selection (announced 14 September 2026), via MICHELIN, Visit Denver and KDVR.
+- James Beard Foundation award lists 2020 to 2026, as reported by Westword, 5280, Denverite, DiningOut and others.
 - 5280 magazine, Westword and Time Out Denver for brunch recommendations.
-- Colorado Department of Agriculture and Colorado State University for produce and chile facts.
+
+## Statewide
+
+- For restaurants outside the city of Denver, see https://bestrestaurantcolorado.com/
 
 ## Contact
 
-- Advertising inquiries, restaurant submissions and corrections: info@eyetoad.com
+- Corrections: https://bestrestaurantdenver.com/contact/

@@ -1,0 +1,2624 @@
+{
+ "site": "https://bestrestaurantdenver.com/",
+ "title": "Best Restaurant Denver: restaurant data",
+ "updated": "2026-10-10",
+ "license": "Facts compiled by BestRestaurantDenver.com from the cited public sources. You may quote and link with attribution to https://bestrestaurantdenver.com/. Award levels belong to MICHELIN and the James Beard Foundation.",
+ "notes": [
+  "Every record lists its sources and the date we last checked it (\"verified\").",
+  "We publish no ratings, reviews, prices or hours. hours/price/phone are null unless sourced.",
+  "lat/lng are null: coordinates have not yet been geocoded from a recorded source (US Census Geocoder or OpenStreetMap). Use the address.",
+  "editor_tags are our own rule-based labels (see /editorial-policy/), not claims by the restaurants.",
+  "track: michelin = 2026 MICHELIN Guide Colorado; press = James Beard or long-running Denver institution with independent press coverage; bar = cocktail bar."
+ ],
+ "count": 51,
+ "restaurants": [
+  {
+   "slug": "the-wolfs-tailor",
+   "name": "The Wolf's Tailor",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Sunnyside",
+   "address": "4058 Tejon St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Tasting menu"
+   ],
+   "website": "https://www.thewolfstailor.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "Two MICHELIN Stars"
+    }
+   ],
+   "award_key": "two",
+   "new_2026": false,
+   "green_star_2025": true,
+   "note": "Colorado's first and only two-star restaurant, kept in 2026. Held a MICHELIN Green Star in the 2023, 2024 and 2025 selections.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "celebration",
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "alma-fonda-fina",
+   "name": "Alma Fonda Fina",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "LoHi",
+   "address": "2556 15th St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Mexican"
+   ],
+   "website": "https://www.almalohidenver.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "One MICHELIN Star"
+    }
+   ],
+   "award_key": "one",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Chef Johnny Curiel. Modern Mexican with a chef's counter. Curiel was a 2026 James Beard nominee for Best Chef: Mountain.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "celebration",
+    "date",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "beckon",
+   "name": "Beckon",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "RiNo",
+   "address": "2843 Larimer St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Tasting menu"
+   ],
+   "website": "https://www.beckon-denver.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "One MICHELIN Star"
+    }
+   ],
+   "award_key": "one",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "U-shaped chef's counter. Vegetarian and pescatarian menus planned in advance.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "celebration",
+    "date"
+   ],
+   "diet_note": "Vegetarian and pescatarian menus can be arranged in advance (per the restaurant).",
+   "bar": false
+  },
+  {
+   "slug": "bruto",
+   "name": "Brutø",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "LoDo",
+   "address": "1801 Blake St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Tasting menu"
+   ],
+   "website": "https://www.brutodenver.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "One MICHELIN Star"
+    }
+   ],
+   "award_key": "one",
+   "new_2026": false,
+   "green_star_2025": true,
+   "note": "Everything centred on a wood-burning hearth. Held a Green Star through the 2025 selection.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "celebration",
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "kizaki",
+   "name": "Kizaki",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Platt Park",
+   "address": "1551 S. Pearl St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Japanese"
+   ],
+   "website": "https://denchukizaki.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "One MICHELIN Star"
+    }
+   ],
+   "award_key": "one",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Edomae-style sushi counter from chef Toshi Kizaki. Starred since 2025.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "celebration",
+    "date",
+    "solo"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "margot",
+   "name": "Margot",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Platt Park",
+   "address": "1551 S. Pearl St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Tasting menu"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/denver_1261491/restaurant/margot-1241646",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "One MICHELIN Star"
+    }
+   ],
+   "award_key": "one",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Opened June 2025 and starred within months. Bar and dining room take à la carte.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    },
+    {
+     "title": "MICHELIN Guide listing",
+     "url": "https://guide.michelin.com/us/en/colorado/denver_1261491/restaurant/margot-1241646"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "celebration",
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "mezcaleria-alma",
+   "name": "Mezcaleria Alma",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "LoHi",
+   "address": "2550 15th St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Mexican"
+   ],
+   "website": "https://www.mezcaleriaalma.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "One MICHELIN Star"
+    }
+   ],
+   "award_key": "one",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Chef Johnny Curiel's second starred restaurant, next door to Alma Fonda Fina.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "celebration",
+    "date",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "milpero",
+   "name": "Milpero",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "RiNo",
+   "address": "3455 Ringsby Ct., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Mexican"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "One MICHELIN Star"
+    }
+   ],
+   "award_key": "one",
+   "new_2026": true,
+   "green_star_2025": false,
+   "note": "Starred 2026: Johnny Curiel's third star.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "celebration",
+    "date",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "ashkara",
+   "name": "Ash'Kara",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "LoHi",
+   "address": "2005 W. 33rd Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Israeli"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "Bib Gourmand"
+    }
+   ],
+   "award_key": "bib",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Contemporary Israeli cooking, vegetable-forward.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": "Vegetable-forward Israeli cooking (MICHELIN description).",
+   "bar": false
+  },
+  {
+   "slug": "the-ginger-pig",
+   "name": "The Ginger Pig",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Berkeley",
+   "address": "4262 Lowell Blvd., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Chinese"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/denver_1261491/restaurant/the-ginger-pig",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "Bib Gourmand"
+    }
+   ],
+   "award_key": "bib",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Began as a Boulder food truck; on Lowell Boulevard since 2020.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    },
+    {
+     "title": "MICHELIN Guide listing",
+     "url": "https://guide.michelin.com/us/en/colorado/denver_1261491/restaurant/the-ginger-pig"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "glo-noodle-house",
+   "name": "Glo Noodle House",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "West Highland",
+   "address": "4450 W. 38th Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Ramen"
+   ],
+   "website": "https://www.glonoodlehouse.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "Bib Gourmand"
+    }
+   ],
+   "award_key": "bib",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "A Bib Gourmand in every Colorado selection.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "casual",
+    "group",
+    "solo"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "hop-alley",
+   "name": "Hop Alley",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "RiNo",
+   "address": "3500 Larimer St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Chinese"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "Bib Gourmand"
+    }
+   ],
+   "award_key": "bib",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Bar director Dustin Lawlor won MICHELIN's 2025 Exceptional Cocktails Award for Colorado.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "la-diabla-pozole-y-mezcal",
+   "name": "La Diabla Pozole y Mezcal",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Ballpark",
+   "address": "2233 Larimer St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Mexican"
+   ],
+   "website": "https://www.ladiabladenver.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "Bib Gourmand"
+    }
+   ],
+   "award_key": "bib",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": "A vegan pozole is on the menu (per 5280 and Salt Lake Magazine).",
+   "bar": false
+  },
+  {
+   "slug": "makfam",
+   "name": "MAKfam",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Baker",
+   "address": "39 W. First Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Chinese"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "Bib Gourmand"
+    }
+   ],
+   "award_key": "bib",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "mister-oso",
+   "name": "Mister Oso",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "RiNo",
+   "address": "3163 Larimer St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Latin American"
+   ],
+   "website": "https://www.misterosodenver.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "Bib Gourmand"
+    }
+   ],
+   "award_key": "bib",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": "5280 notes strong vegetarian options.",
+   "bar": false
+  },
+  {
+   "slug": "pig-and-tiger",
+   "name": "Pig and Tiger",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Five Points",
+   "address": "2200 California St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Taiwanese"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "Bib Gourmand"
+    }
+   ],
+   "award_key": "bib",
+   "new_2026": true,
+   "green_star_2025": false,
+   "note": "Bib Gourmand since 2026.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "rougarou",
+   "name": "Rougarou",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Five Points",
+   "address": "2844 Welton St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Southern"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "Bib Gourmand"
+    }
+   ],
+   "award_key": "bib",
+   "new_2026": true,
+   "green_star_2025": false,
+   "note": "Bib Gourmand since 2026.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "tavernetta",
+   "name": "Tavernetta",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Union Station",
+   "address": "1889 16th St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Italian"
+   ],
+   "website": "https://tavernettadenver.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "Bib Gourmand"
+    }
+   ],
+   "award_key": "bib",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "From the Frasca Hospitality Group team.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "a5-steakhouse",
+   "name": "A5 Steakhouse",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "LoDo",
+   "address": "1600 15th St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Steakhouse"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "celebration",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "alteno",
+   "name": "Alteño",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Cherry Creek",
+   "address": "249 Clayton St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Mexican"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Johnny Curiel's restaurant in the Clayton Hotel.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "barolo-grill",
+   "name": "Barolo Grill",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Cherry Creek",
+   "address": "3030 E. Sixth Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Italian"
+   ],
+   "website": "https://www.barologrilldenver.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "celebration",
+    "date",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "brasserie-brixton",
+   "name": "Brasserie Brixton",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Cole",
+   "address": "3701 Williams St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "French"
+   ],
+   "website": "https://www.brasseriebrixton.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "dear-emilia",
+   "name": "Dear Emilia",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "RiNo",
+   "address": "3615 Delgany St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Italian"
+   ],
+   "website": "https://www.emiliadenver.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": true,
+   "green_star_2025": false,
+   "note": "Listed 2026. A sibling of Restaurant Olivia.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "dio-mio",
+   "name": "Dio Mio",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "RiNo",
+   "address": "3264 Larimer St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Italian"
+   ],
+   "website": "https://www.diomiopasta.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Counter-service handmade pasta.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date",
+    "solo"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "florence-supper-club",
+   "name": "Florence Supper Club",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Washington Park",
+   "address": "375 S. Pearl St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Italian"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": true,
+   "green_star_2025": false,
+   "note": "Listed 2026.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "heretik",
+   "name": "Heretík",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "RiNo",
+   "address": "1441 26th St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "French"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": true,
+   "green_star_2025": false,
+   "note": "Listed 2026, with the 2026 Sommelier Award.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "hey-kiddo",
+   "name": "Hey Kiddo",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Berkeley",
+   "address": "4337 Tennyson St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Contemporary"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/denver_1261491/restaurant/hey-kiddo",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    },
+    {
+     "title": "MICHELIN Guide listing",
+     "url": "https://guide.michelin.com/us/en/colorado/denver_1261491/restaurant/hey-kiddo"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "kawa-ni",
+   "name": "Kawa Ni",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "LoHi",
+   "address": "1900 W. 32nd Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Japanese"
+   ],
+   "website": "https://www.kawanidenver.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Izakaya.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date",
+    "solo"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "madeline",
+   "name": "Madeline",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Cheesman Park",
+   "address": "1313 E. Sixth Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Contemporary"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": true,
+   "green_star_2025": false,
+   "note": "Listed 2026.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "marcos-coal-fired",
+   "name": "Marco's Coal Fired",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Ballpark",
+   "address": "2129 Larimer St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Pizza"
+   ],
+   "website": "https://www.marcoscfp.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "mercantile",
+   "name": "Mercantile",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Union Station",
+   "address": "1701 Wynkoop St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Contemporary"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "restaurant-olivia",
+   "name": "Restaurant Olivia",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Washington Park",
+   "address": "290 S. Downing St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Italian"
+   ],
+   "website": "https://www.oliviadenver.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Heather Morrison won MICHELIN's 2025 Outstanding Service Award for Colorado.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "safta",
+   "name": "Safta",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "RiNo",
+   "address": "3330 Brighton Blvd., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Israeli"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/denver_1261491/restaurant/safta",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    },
+    {
+     "title": "MICHELIN Guide listing",
+     "url": "https://guide.michelin.com/us/en/colorado/denver_1261491/restaurant/safta"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "smok",
+   "name": "Smok",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "RiNo",
+   "address": "3330 Brighton Blvd., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Barbecue"
+   ],
+   "website": "https://www.denversmok.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "temaki-den",
+   "name": "Temaki Den",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "RiNo",
+   "address": "3350 Brighton Blvd., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Japanese"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/denver_1261491/restaurant/temaki-den",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": null,
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    },
+    {
+     "title": "MICHELIN Guide listing",
+     "url": "https://guide.michelin.com/us/en/colorado/denver_1261491/restaurant/temaki-den"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date",
+    "solo"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "ukiyo",
+   "name": "Ukiyo",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Larimer Square",
+   "address": "1317 14th St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Japanese"
+   ],
+   "website": "https://ukiyoomakase.com/",
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Omakase counter.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date",
+    "solo"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "wildflower",
+   "name": "Wildflower",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "LoHi",
+   "address": "3638 Navajo St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Contemporary"
+   ],
+   "website": null,
+   "michelin_url": "https://guide.michelin.com/us/en/colorado/restaurants",
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "MICHELIN Guide Colorado",
+     "year": 2026,
+     "level": "MICHELIN Recommended"
+    }
+   ],
+   "award_key": "rec",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Aiden Tibbets was named MICHELIN's 2025 Young Chef of the Year for Colorado.",
+   "track": "michelin",
+   "sources": [
+    {
+     "title": "KDVR: 2026 MICHELIN Guide, all recognized restaurants in Colorado",
+     "url": "https://kdvr.com/news/local/2026-michelin-guide-all-recognized-restaurants-in-colorado/"
+    },
+    {
+     "title": "Michelin: first statewide selection for Colorado (2026)",
+     "url": "https://www.michelin.com/en/publications/products-and-services/michelin-guide-unveils-first-statewide-selection-for-colorado"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "editor_tags": [
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "yuan-wonton",
+   "name": "Yuan Wonton",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Park Hill",
+   "address": "2878 Fairfax St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Chinese",
+    "Dumplings"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2026,
+     "level": "Best Chef: Mountain (winner)"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Chef-owner Penelope Wong won the 2026 James Beard Award for Best Chef: Mountain after four years in contention. Known for wontons and dumplings.",
+   "track": "press",
+   "sources": [
+    {
+     "title": "303 Magazine: Penelope Wong wins 2026 James Beard Award",
+     "url": "https://303magazine.com/2026/06/penelope-wong-yuan-wonton-james-beard-award-2026/"
+    },
+    {
+     "title": "Denver Gazette: Yuan Wonton wins James Beard Award (June 2026)",
+     "url": "https://www.denvergazette.com/2026/06/16/denvers-yuan-wonton-wins-prestigious-james-beard-award/"
+    },
+    {
+     "title": "Denverite: Yuan Wonton dumplings on United Airlines (Aug 2026)",
+     "url": "https://denverite.com/2026/08/25/yuan-wonton-penelope-wong-dumplings-united-airlines/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "sap-sua",
+   "name": "Sắp Sửa",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "East Colfax",
+   "address": "2550 E. Colfax Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Vietnamese"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2024,
+     "level": "Best New Restaurant (semifinalist)"
+    },
+    {
+     "body": "James Beard Foundation",
+     "year": 2025,
+     "level": "Emerging Chef (semifinalist)"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Vietnamese restaurant from Anna and Ni Nguyen, opened June 2023 in the Tattered Cover building. James Beard semifinalist for Best New Restaurant (2024) and Emerging Chef (2025).",
+   "track": "press",
+   "sources": [
+    {
+     "title": "Wikipedia: Sắp Sửa",
+     "url": "https://en.wikipedia.org/wiki/S%E1%BA%AFp_S%E1%BB%ADa"
+    },
+    {
+     "title": "WhatNow Denver: Sắp Sửa secures Colfax spot",
+     "url": "https://whatnow.com/denver/restaurants/sap-sua-secures-colfax-spot-will-open-in-a-few-weeks"
+    },
+    {
+     "title": "DiningOut: 2025 James Beard semifinalists",
+     "url": "https://diningout.com/denver/the-2025-james-beard-semifinalist-line-up-has-been-released/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "uncle",
+   "name": "Uncle",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "LoHi",
+   "address": "2215 W. 32nd Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Ramen",
+    "Asian"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2026,
+     "level": "Outstanding Restaurateur (semifinalist, Tommy Lee)"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Tommy Lee's original ramen and small-plates restaurant. Lee, who also runs Hop Alley, was a 2026 James Beard semifinalist for Outstanding Restaurateur.",
+   "track": "press",
+   "sources": [
+    {
+     "title": "Westword: Uncle opens in Lower Highland",
+     "url": "https://www.westword.com/food-drink/exclusive-first-look-uncle-opens-this-week-in-lower-highland-5722457/"
+    },
+    {
+     "title": "Springs Magazine: Colorado 2026 James Beard semifinalists",
+     "url": "https://springsmag.com/add-colorados-2026-james-beard-award-semifinalists-to-your-dining-list/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "solo"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "molotov-kitschen-cocktails",
+   "name": "Molotov Kitschen + Cocktails",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "East Colfax",
+   "address": "3333 E. Colfax Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Ukrainian",
+    "Eastern European"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2025,
+     "level": "Best Chef: Mountain (semifinalist)"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Chef Bo Porytko's Ukrainian and Eastern European kitchen, on The New York Times' 2023 list of America's 50 best restaurants. Porytko was a 2025 James Beard semifinalist for Best Chef: Mountain.",
+   "track": "press",
+   "sources": [
+    {
+     "title": "Westword: Molotov Kitschen opens",
+     "url": "https://www.westword.com/food-drink/molotov-kitschen-opens-bo-porytko-15915812/"
+    },
+    {
+     "title": "DiningOut: 2025 James Beard semifinalists",
+     "url": "https://diningout.com/denver/the-2025-james-beard-semifinalist-line-up-has-been-released/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "lucina-eatery-and-bar",
+   "name": "Lucina Eatery & Bar",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Park Hill",
+   "address": "2245 Kearney St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Latin American"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2025,
+     "level": "Best Chef: Mountain (semifinalist)"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Latin American restaurant in Park Hill. Chefs Erasmo Casiano and Diego Coconati were James Beard semifinalists for Best Chef: Mountain in 2024 and 2025.",
+   "track": "press",
+   "sources": [
+    {
+     "title": "Axios Denver: new restaurants opening (June 2022)",
+     "url": "https://www.axios.com/local/denver/2022/06/08/new-restaurants-opening-denver"
+    },
+    {
+     "title": "Denverite: 2024 James Beard semifinalists",
+     "url": "https://denverite.com/2024/01/24/denver-chefs-restaurants-james-beard-awards-semifinalists/"
+    },
+    {
+     "title": "DiningOut: 2025 James Beard semifinalists",
+     "url": "https://diningout.com/denver/the-2025-james-beard-semifinalist-line-up-has-been-released/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "coperta",
+   "name": "Coperta",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Uptown",
+   "address": "400 E. 20th Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Italian"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2025,
+     "level": "Best Chef: Mountain (semifinalist)"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Roman and southern Italian cooking from siblings Paul and Aileen Reilly, open since 2016 at 20th and Logan. Paul Reilly was a 2025 James Beard semifinalist for Best Chef: Mountain.",
+   "track": "press",
+   "sources": [
+    {
+     "title": "5280: Coperta is open",
+     "url": "https://5280.com/coperta-is-open/"
+    },
+    {
+     "title": "Denverite: Coperta opens (2016)",
+     "url": "https://denverite.com/2016/07/26/coperta-new-restaurant-duo-behind-beast-bottle-opens-today/"
+    },
+    {
+     "title": "DiningOut: 2025 James Beard semifinalists",
+     "url": "https://diningout.com/denver/the-2025-james-beard-semifinalist-line-up-has-been-released/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "le-french",
+   "name": "Le French",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Hale",
+   "address": "846 Albion St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "French",
+    "Senegalese"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2024,
+     "level": "Best Chef: Mountain (semifinalist)"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Run by sisters Aminata and Rougui Dia, who were 2024 James Beard semifinalists for Best Chef: Mountain.",
+   "track": "press",
+   "sources": [
+    {
+     "title": "Denverite: 2024 James Beard semifinalists",
+     "url": "https://denverite.com/2024/01/24/denver-chefs-restaurants-james-beard-awards-semifinalists/"
+    },
+    {
+     "title": "Westword: Colorado 2024 James Beard semifinalists",
+     "url": "https://www.westword.com/food-drink/colorado-chefs-restaurants-james-beard-award-semifinalists-2024-18971178/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "odells-bagel",
+   "name": "Odell's Bagel",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "West Highland",
+   "address": "3200 Irving St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Bagels",
+    "Breakfast"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2026,
+     "level": "Best Chef: Mountain (semifinalist)"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Bagel shop that grew out of farmers-market stands, in the former Denver Bread space by Highland Park. Miles Odell was a 2026 James Beard semifinalist for Best Chef: Mountain. Often sells out; check hours.",
+   "track": "press",
+   "sources": [
+    {
+     "title": "BusinessDen: bagel shop to open in former Denver Bread space",
+     "url": "https://businessden.com/bagel-shop-to-open-in-former-denver-bread-space-in-west-highland/"
+    },
+    {
+     "title": "303 Magazine: a fresh twist on bagels in Denver (Nov 2024)",
+     "url": "https://303magazine.com/2024/11/a-fresh-twist-on-bagels-in-denver/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "solo"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "lady-jane",
+   "name": "Lady Jane",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "LoHi",
+   "address": "2021 W. 32nd Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Cocktail bar"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2026,
+     "level": "Outstanding Bar (semifinalist)"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "LoHi cocktail bar, a 2026 James Beard semifinalist for Outstanding Bar.",
+   "track": "bar",
+   "sources": [
+    {
+     "title": "303 Magazine: Lady Jane opens in LoHi",
+     "url": "https://303magazine.com/2018/08/lady-jane-opens-lohi/"
+    },
+    {
+     "title": "Springs Magazine: Colorado 2026 James Beard semifinalists",
+     "url": "https://springsmag.com/add-colorados-2026-james-beard-award-semifinalists-to-your-dining-list/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "date",
+    "solo"
+   ],
+   "diet_note": null,
+   "bar": true
+  },
+  {
+   "slug": "yacht-club",
+   "name": "Yacht Club",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Cole",
+   "address": "3701 N. Williams St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Cocktail bar"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2025,
+     "level": "Outstanding Professional in Cocktail Service (semifinalist)"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Small cocktail bar from McLain Hedges and Mary Allison Wright, James Beard semifinalists for Outstanding Professional in Cocktail Service in 2025.",
+   "track": "bar",
+   "sources": [
+    {
+     "title": "The Infatuation: Yacht Club",
+     "url": "https://www.theinfatuation.com/denver/reviews/yacht-club"
+    },
+    {
+     "title": "The World's 50 Best Bars: Yacht Club",
+     "url": "https://www.theworlds50best.com/bars/northamerica/the-list/yacht-club.html"
+    },
+    {
+     "title": "DiningOut: 2025 James Beard semifinalists",
+     "url": "https://diningout.com/denver/the-2025-james-beard-semifinalist-line-up-has-been-released/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "date",
+    "solo"
+   ],
+   "diet_note": null,
+   "bar": true
+  },
+  {
+   "slug": "el-taco-de-mexico",
+   "name": "El Taco de Mexico",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Lincoln Park",
+   "address": "714 Santa Fe Dr., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Mexican"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2020,
+     "level": "America's Classics"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Family-run taqueria in a yellow building on Santa Fe Drive. In 2020 it became the first Colorado restaurant to receive a James Beard America's Classics award, with its green chile singled out.",
+   "track": "press",
+   "sources": [
+    {
+     "title": "Westword: El Taco de Mexico wins James Beard America's Classics award",
+     "url": "https://www.westword.com/food-drink/el-taco-de-mexico-wins-james-beard-american-classics-award-11643241/"
+    },
+    {
+     "title": "5280: big Denver news from the James Beard Foundation (2020)",
+     "url": "https://5280.com/2020/02/big-denver-news-from-the-james-beard-foundation/"
+    },
+    {
+     "title": "Denver7: recognized for its green chile",
+     "url": "https://www.thedenverchannel.com/news/local-news/el-taco-de-mexico-was-recognized-because-of-its-famous-green-chile-recipe"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "high",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "welton-street-cafe",
+   "name": "Welton Street Cafe",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Five Points",
+   "address": "2883 Welton St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Soul food",
+    "Caribbean"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Family-run Five Points institution that lost its lease in 2022 and reopened down the street in November 2024 with twice the seating.",
+   "track": "press",
+   "sources": [
+    {
+     "title": "5280: Welton Street Cafe returns",
+     "url": "https://5280.com/welton-street-cafe-returns-as-the-heart-and-soul-of-five-points"
+    },
+    {
+     "title": "Axios Denver: new restaurant openings (Nov 2024)",
+     "url": "https://www.axios.com/local/denver/2024/11/13/new-restaurants-bars-denver-welton-street-cafe"
+    },
+    {
+     "title": "RED Magazine (MSU Denver): Queen of Five Points",
+     "url": "https://red.msudenver.edu/2024/queen-of-five-points-brings-comfort-and-care-to-a-community-in-flux/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "buckhorn-exchange",
+   "name": "Buckhorn Exchange",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Lincoln Park",
+   "address": "1000 Osage St., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Steakhouse",
+    "Game"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Founded in 1893 and widely described as Denver's oldest restaurant; it holds Colorado liquor license No. 1 and is on the National Register of Historic Places.",
+   "track": "press",
+   "sources": [
+    {
+     "title": "Library of Congress: Buckhorn Exchange",
+     "url": "https://www.loc.gov/item/2017689061"
+    },
+    {
+     "title": "Islands: Colorado's oldest restaurant",
+     "url": "https://www.islands.com/1982155/buckhorn-exchange-essence-denvers-old-west-legacy-display-colorados-oldest-restaurant"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "celebration",
+    "group"
+   ],
+   "diet_note": null,
+   "bar": false
+  },
+  {
+   "slug": "spuntino",
+   "name": "Spuntino",
+   "status": "open",
+   "city": "Denver",
+   "neighborhood": "Highland",
+   "address": "2639 W. 32nd Ave., Denver, CO",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "cuisines": [
+    "Italian"
+   ],
+   "website": null,
+   "michelin_url": null,
+   "phone": null,
+   "hours": null,
+   "price": null,
+   "awards": [
+    {
+     "body": "James Beard Foundation",
+     "year": 2023,
+     "level": "Best Chef: Mountain (semifinalist)"
+    }
+   ],
+   "award_key": "press",
+   "new_2026": false,
+   "green_star_2025": false,
+   "note": "Cindhura Reddy's Highland trattoria and gelateria. Reddy was a 2023 James Beard semifinalist for Best Chef: Mountain.",
+   "track": "press",
+   "sources": [
+    {
+     "title": "Westword: Colorado 2023 James Beard semifinalists",
+     "url": "https://www.westword.com/food-drink/james-beard-award-semifinalists-colorado-2023-16015052/"
+    },
+    {
+     "title": "303 Magazine: Cindhura Reddy",
+     "url": "https://303magazine.com/tag/cindhura-reddy/"
+    }
+   ],
+   "verified": "2026-10-10",
+   "confidence": "medium",
+   "added": "2026-10-10",
+   "editor_tags": [
+    "casual",
+    "date"
+   ],
+   "diet_note": null,
+   "bar": false
+  }
+ ]
+}
