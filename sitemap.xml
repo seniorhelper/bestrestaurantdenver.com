@@ -22,4 +22,10 @@
   <url><loc>https://bestrestaurantdenver.com/privacy/</loc><lastmod>2026-10-10</lastmod></url>
   <url><loc>https://bestrestaurantdenver.com/terms/</loc><lastmod>2026-10-10</lastmod></url>
   <url><loc>https://bestrestaurantdenver.com/sitemap.html</loc><lastmod>2026-10-10</lastmod></url>
+  <url>
+    <loc>https://bestrestaurantdenver.com/for-restaurant-owners/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
