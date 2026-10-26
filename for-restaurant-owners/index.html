@@ -222,7 +222,7 @@
     </div>
   </div>
 </footer>
-<script>
+<script>try{
 (function(){
   "use strict";
   var RM = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -256,6 +256,7 @@
     if(rvList.length){ window.addEventListener('scroll', rvOnScroll, {passive:true}); window.addEventListener('resize', rvOnScroll); rvCheck(); }
   } else { rvs.forEach(function(el){ el.classList.add('in'); }); }
 })();
-</script>
+
+}catch(e){}</script>
 </body>
 </html>
